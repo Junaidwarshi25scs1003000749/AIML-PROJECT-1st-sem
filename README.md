@@ -71,28 +71,5 @@ Use of deep learning models
 Include psychological factors
 Deploy as web/mobile application
 
-🔧 Installation
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-pip install -r requirements.txt
 
-▶️ How to Run
-jupyter notebook
-
-OR
-
-python main.py
-📁 Project Structure
-├── data/
-├── notebooks/
-├── src/
-├── models/
-├── README.md
-👤 Author
-JUNAID warshi
-B.Tech CSE Student
-📚 References
-Educational Data Mining research papers
-Scikit-learn documentation
-Kaggle datasets
 
